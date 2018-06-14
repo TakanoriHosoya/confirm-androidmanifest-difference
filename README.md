@@ -2,8 +2,7 @@
 
 ## 使い方
 
-1. 
-AXMLPrinter2.jarを入れる
+1. AXMLPrinter2.jarを入れる
 https://code.google.com/archive/p/android4me/downloads
 
 1. 引数に前のバージョンのapkと今回のバージョンのapkを入れて実行
